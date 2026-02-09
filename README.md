@@ -17,6 +17,15 @@
 
 <!-- ===================== INTRO ===================== -->
 <p align="center">
+
+  ## 👩‍💻 About Me
+
+I am an MCA student and a Frontend Developer with a strong interest in building
+clean, responsive, and user-friendly web applications.
+
+I enjoy working with modern frontend technologies like React and React Native
+and focus on writing simple, readable, and maintainable UI code.
+
   🎓 <b>MCA Student</b><br>
   💻 Frontend Developer (React & React Native)<br>
   🌱 Constantly learning & improving every day<br>
@@ -30,14 +39,57 @@
 
 <br />
 
-## 📊 GitHub Stats
+
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikita-px&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikita-px&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikita-px&layout=compact&theme=tokyonight" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=nikita-px&theme=tokyo-night" />
+</p>
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nikita-tayade-a6417a369/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="https://github.com/nikita-px" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nikita-px&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+## 📌 Featured Project
+
+<p align="center">
+<img width="1536" height="1024" alt="Image Feb 9, 2026, 05_46_25 PM" src="https://github.com/user-attachments/assets/ddad46c4-db95-4688-84d1-725f0c72709b" />
+  </>
+</p>
+
+### 🍽️ Food Waste Management
+
+A frontend system to manage and reduce food waste using a **clean, responsive, and user-friendly UI**.
+
+**What this project focuses on:**
+- 📱 Fully responsive layout (mobile-first)
+- 🎨 Clean UI with consistent spacing and colors
+- 🧭 Easy navigation and readable components
+- ⚡ Smooth interactions and fast rendering
+
+**Tech Stack:**
+- React  
+- JavaScript (ES6+)  
+- HTML5  
+- CSS3  
+
+🔗 **Repository:**  
+https://github.com/nikita-px/REPO_NAME
